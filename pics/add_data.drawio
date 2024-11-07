@@ -80,7 +80,7 @@
         <mxCell id="xPAFDYVkaVms7dZqZz4D-24" value="更新中心题干" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="480" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xPAFDYVkaVms7dZqZz4D-30" value="中心表示=簇内所有题干embedding的均值&lt;div&gt;&lt;br&gt;&lt;div&gt;新的答案等于簇内答案计数次数最多的答案&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;zhon&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xPAFDYVkaVms7dZqZz4D-30" value="中心表示=簇内所有题干embedding的均值&lt;div&gt;&lt;br&gt;&lt;div&gt;新的答案等于簇内答案计数次数最多的答案&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;中心题干一定是簇内的某一道题，会有一个索引，例如簇内有10道题，当前簇中心是第2道题，不该变的意思就是新题进去后有10道题，但是离新簇中心表示最近的题还是第二题的embeddin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="229" width="160" height="271" as="geometry" />
         </mxCell>
       </root>
