@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="596" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,8 +29,8 @@
         <mxCell id="xPAFDYVkaVms7dZqZz4D-8" value="是否有检索结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="150" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xPAFDYVkaVms7dZqZz4D-9" value="直接入库，簇的数目加1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="175" width="80" height="30" as="geometry" />
+        <mxCell id="xPAFDYVkaVms7dZqZz4D-9" value="直接入库，簇的数目加1，当前题的簇号为簇数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="168" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xPAFDYVkaVms7dZqZz4D-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xPAFDYVkaVms7dZqZz4D-10" target="xPAFDYVkaVms7dZqZz4D-17">
           <mxGeometry relative="1" as="geometry" />
@@ -80,8 +80,8 @@
         <mxCell id="xPAFDYVkaVms7dZqZz4D-24" value="更新中心题干" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="480" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xPAFDYVkaVms7dZqZz4D-30" value="中心表示=簇内所有题干embedding的均值&lt;div&gt;&lt;br&gt;&lt;div&gt;新的答案等于簇内答案计数次数最多的答案&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;中心题干一定是簇内的某一道题，会有一个索引，例如簇内有10道题，当前簇中心是第2道题，不该变的意思就是新题进去后有10道题，但是离新簇中心表示最近的题还是第二题的embeddin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="229" width="160" height="271" as="geometry" />
+        <mxCell id="xPAFDYVkaVms7dZqZz4D-30" value="&lt;div&gt;检索结果有两个主要参数，topk和阈值，设置阈值是为了减少无效相同题判定次数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;中心表示=簇内所有题干embedding的均值&lt;div&gt;&lt;br&gt;&lt;div&gt;新的答案等于簇内答案计数次数最多的答案，答案和解析需要绑定&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;中心题干一定是簇内的某一道题，会有一个索引，例如簇内有10道题，当前簇中心是第2道题。簇中心不该变的意思就是新题进去后有11道题，但是离新簇中心表示最近的题还是第二题的embedding；簇中心改变的意思就是新题进入之后有11道题，更新簇中心表示后离簇中心表示最近的题是第3题，这就表明簇中心题干变了&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="200" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
