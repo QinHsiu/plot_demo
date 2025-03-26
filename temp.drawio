@@ -95,6 +95,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-1" target="XEcr6bu9GqmoWImsLkUs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-1" value="题库答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-2" target="XEcr6bu9GqmoWImsLkUs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-2" value="OCR答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-3" target="XEcr6bu9GqmoWImsLkUs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-3" target="XEcr6bu9GqmoWImsLkUs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-3" target="XEcr6bu9GqmoWImsLkUs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-3" value="格式规范化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-6" target="XEcr6bu9GqmoWImsLkUs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-6" target="XEcr6bu9GqmoWImsLkUs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-6" target="XEcr6bu9GqmoWImsLkUs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-6" value="题库答案提取用户作答抽取" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="175" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-8" target="XEcr6bu9GqmoWImsLkUs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEcr6bu9GqmoWImsLkUs-8" target="XEcr6bu9GqmoWImsLkUs-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-8" value="答案比对" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="175" width="78.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-13" value="1.去除冗余字符,例如\n、空格、。、，等;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="290" width="111.25" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-15" value="题库答案可以直接进行规整化&lt;div&gt;&lt;br&gt;&lt;div&gt;用户作答只能线上进行规整化&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="40" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-17" value="1.需要根据题型使用不同的正则进行抽取，例如解方程，可以使用&#39;字母=数值&#39;的形式抽取答案" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="290" width="120.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-19" value="题库答案可以提前抽取成一个list，并且是排序好的&lt;div&gt;&lt;br&gt;&lt;div&gt;用户作答只能线上使用模型+规则进行抽取&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-22" value="1.直接字符串级别比较；&lt;div&gt;2.将题库答案格式向用户作答抽取结果对齐/用户作答抽取结果向题库答案格式对齐&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="559.25" y="290" width="120.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XEcr6bu9GqmoWImsLkUs-24" value="线上进行比对&lt;div&gt;规则+模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="559.25" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
