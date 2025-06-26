@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="7">
   <diagram name="第 1 页" id="P6E8zjEykWlbqtwnReJS">
     <mxGraphModel dx="773" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,45 +162,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o6Bda8zBXk-m21hfo-ji" name="第 3 页">
-    <mxGraphModel dx="1745" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="61giJdoqG98BgG1m5XoA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-1" target="61giJdoqG98BgG1m5XoA-5">
+        <mxCell id="61giJdoqG98BgG1m5XoA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-1" target="61giJdoqG98BgG1m5XoA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-1" value="jyy题型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-1" value="jyy题型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="110" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-5" target="61giJdoqG98BgG1m5XoA-7">
+        <mxCell id="61giJdoqG98BgG1m5XoA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-5" target="61giJdoqG98BgG1m5XoA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-9" value="不是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="61giJdoqG98BgG1m5XoA-8">
+        <mxCell id="61giJdoqG98BgG1m5XoA-9" value="不是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="61giJdoqG98BgG1m5XoA-8" vertex="1" connectable="0">
           <mxGeometry x="0.05" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-5" target="61giJdoqG98BgG1m5XoA-10">
+        <mxCell id="61giJdoqG98BgG1m5XoA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-5" target="61giJdoqG98BgG1m5XoA-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="61giJdoqG98BgG1m5XoA-11">
+        <mxCell id="61giJdoqG98BgG1m5XoA-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="61giJdoqG98BgG1m5XoA-11" vertex="1" connectable="0">
           <mxGeometry x="-0.287" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-5" value="是否复合题" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-5" value="是否复合题" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="190" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-7" target="61giJdoqG98BgG1m5XoA-15">
+        <mxCell id="61giJdoqG98BgG1m5XoA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-7" target="61giJdoqG98BgG1m5XoA-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-7" target="61giJdoqG98BgG1m5XoA-17">
+        <mxCell id="61giJdoqG98BgG1m5XoA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-7" target="61giJdoqG98BgG1m5XoA-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-7" value="题型判断(step0)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-7" value="题型判断(step0)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="330" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-10" target="61giJdoqG98BgG1m5XoA-7">
+        <mxCell id="61giJdoqG98BgG1m5XoA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="61giJdoqG98BgG1m5XoA-10" target="61giJdoqG98BgG1m5XoA-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="350" as="targetPoint" />
             <Array as="points">
@@ -208,43 +208,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-10" target="61giJdoqG98BgG1m5XoA-29">
+        <mxCell id="61giJdoqG98BgG1m5XoA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-10" target="61giJdoqG98BgG1m5XoA-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-10" value="取出所有child list中题目" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-10" value="取出所有child list中题目" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="190" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-15" value="可批：选择(单/多/多选多)、判断、排序、完形填空、连词成句&lt;div&gt;不可批：画图、配对、作文、pdf、录入错题、分类题、录音、语音跟读&lt;/div&gt;&lt;div&gt;其他题型：需要r1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-15" value="可批：选择(单/多/多选多)、判断、排序、完形填空、连词成句&lt;div&gt;不可批：画图、配对、作文、pdf、录入错题、分类题、录音、语音跟读&lt;/div&gt;&lt;div&gt;其他题型：需要r1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="285" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-17" target="61giJdoqG98BgG1m5XoA-19">
+        <mxCell id="61giJdoqG98BgG1m5XoA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-17" target="61giJdoqG98BgG1m5XoA-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-17" target="61giJdoqG98BgG1m5XoA-21">
+        <mxCell id="61giJdoqG98BgG1m5XoA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-17" target="61giJdoqG98BgG1m5XoA-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-17" value="规则判断答案(step1)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-17" value="规则判断答案(step1)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="125" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-19" value="不可批：包含&quot;略&quot;、&quot;画图略&quot;、&quot;如图所示&quot;、&quot;见解析&quot;、&quot;&amp;lt;img&quot;、&quot;合理即可&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-19" value="不可批：包含&quot;略&quot;、&quot;画图略&quot;、&quot;如图所示&quot;、&quot;见解析&quot;、&quot;&amp;lt;img&quot;、&quot;合理即可&quot;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-21" target="61giJdoqG98BgG1m5XoA-23">
+        <mxCell id="61giJdoqG98BgG1m5XoA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-21" target="61giJdoqG98BgG1m5XoA-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61giJdoqG98BgG1m5XoA-21" target="61giJdoqG98BgG1m5XoA-25">
+        <mxCell id="61giJdoqG98BgG1m5XoA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="61giJdoqG98BgG1m5XoA-21" target="61giJdoqG98BgG1m5XoA-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-21" value="规则判断题型(step2)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-21" value="规则判断题型(step2)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="122.5" y="580" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-23" value="不可批：画图题、竖式题、作文题、证明题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-23" value="不可批：画图题、竖式题、作文题、证明题&lt;div&gt;可批：填空式计算题&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-80" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-25" value="r1判断题型与是否可批(step3)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-25" value="r1判断题型与是否可批(step3)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="117.5" y="680" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61giJdoqG98BgG1m5XoA-29" value="1.改进规则所有复合题中的子题不可批才不可批&lt;div&gt;2.竖式题拼接最外层的content&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="61giJdoqG98BgG1m5XoA-29" value="1.改进规则所有复合题中的子题不可批才不可批&lt;div&gt;2.竖式题拼接最外层的content&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="470" y="190" width="155" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -406,6 +406,14 @@
         <mxCell id="I0oGItOLlN6dXGqYUuY7-31" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="209" width="65" height="41" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_7iZfJpcJtT-Um33NWFz" name="第 7 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
