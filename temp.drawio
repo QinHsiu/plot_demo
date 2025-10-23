@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="8">
   <diagram name="第 1 页" id="P6E8zjEykWlbqtwnReJS">
     <mxGraphModel dx="773" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,6 +588,150 @@
         </mxCell>
         <mxCell id="SgLmkc5p008s5W8znVxh-62" value="后处理&lt;div&gt;(用于回显)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="231.5" width="71" height="43" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y861nqav8bZXBqgUzc1Y" name="第 8 页">
+    <mxGraphModel dx="1596" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-2" target="CiQKLIJ-gr4oa3XwJa1s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-2" value="单题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="203" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-4" value="是否图表上作答二分类&lt;br&gt;&lt;div&gt;owner:庆国&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-69" y="196" width="69" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-57" target="CiQKLIJ-gr4oa3XwJa1s-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="355" as="targetPoint" />
+            <mxPoint x="362" y="318" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-18" target="CiQKLIJ-gr4oa3XwJa1s-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-78" value="文本一致性过滤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CiQKLIJ-gr4oa3XwJa1s-17">
+          <mxGeometry x="-0.3086" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-18" value="文本结构化&lt;div&gt;owner:曼琳&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="284" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-23" value="答案回填&lt;div&gt;owner:智玮&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="284" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-38" target="CiQKLIJ-gr4oa3XwJa1s-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-38" value="规则过滤&lt;br&gt;&lt;div&gt;owner:新元&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="284" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-23" target="CiQKLIJ-gr4oa3XwJa1s-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969" y="369" as="targetPoint" />
+            <mxPoint x="803" y="256" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-79" value="答案回填过滤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CiQKLIJ-gr4oa3XwJa1s-40">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-43" value="结构化入库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="926" y="282.5" width="71" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-44" value="jyy可兼容题型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="284" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-44" target="CiQKLIJ-gr4oa3XwJa1s-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="318" as="targetPoint" />
+            <mxPoint x="262" y="351" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-47" target="CiQKLIJ-gr4oa3XwJa1s-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-47" value="图上/表上作答" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-4" target="CiQKLIJ-gr4oa3XwJa1s-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="489" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-57" value="题型分类&lt;div&gt;owner:庆国&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="284" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-58" target="CiQKLIJ-gr4oa3XwJa1s-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-58" value="新题型分类&lt;div&gt;owner:庆国&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-60" target="CiQKLIJ-gr4oa3XwJa1s-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577" y="100" as="targetPoint" />
+            <mxPoint x="527" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-60" value="作答区域检测&lt;div&gt;owner:瑞斌&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-62" target="CiQKLIJ-gr4oa3XwJa1s-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-62" value="结构化&lt;div&gt;？&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-63" target="CiQKLIJ-gr4oa3XwJa1s-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-63" value="答案回填&lt;div&gt;owner:智玮&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="667" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-65" target="CiQKLIJ-gr4oa3XwJa1s-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-65" value="规则过滤&lt;br&gt;&lt;div&gt;owner:新元&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="916.5" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-69" value="单选、多选、多选多、填空、判断、解答、复合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="380" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-4" target="CiQKLIJ-gr4oa3XwJa1s-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="293" as="sourcePoint" />
+            <mxPoint x="133" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-72" target="CiQKLIJ-gr4oa3XwJa1s-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-72" value="答案打标&lt;div&gt;owner:秀元&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CiQKLIJ-gr4oa3XwJa1s-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-57" target="CiQKLIJ-gr4oa3XwJa1s-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.03999999999996" y="381.02" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
