@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.1.2" pages="9">
   <diagram name="第 1 页" id="P6E8zjEykWlbqtwnReJS">
     <mxGraphModel dx="773" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -731,6 +731,120 @@
         <mxCell id="CiQKLIJ-gr4oa3XwJa1s-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CiQKLIJ-gr4oa3XwJa1s-57" target="CiQKLIJ-gr4oa3XwJa1s-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="277.03999999999996" y="381.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P47Za-0QT7BbZf98NQvq" name="第 9 页">
+    <mxGraphModel dx="679" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IimS17NUiTMJRAHFADf5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-3" target="IimS17NUiTMJRAHFADf5-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="136" y="100" />
+              <mxPoint x="216" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-3" value="教研云接口&lt;div&gt;(晓洋老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-4" target="IimS17NUiTMJRAHFADf5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-4" value="可批状态&lt;div&gt;查询接口&lt;/div&gt;&lt;div&gt;(庞树老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="20" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-5" value="&lt;div&gt;镜像库接口&lt;/div&gt;&lt;div&gt;(宋凯老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-5" target="IimS17NUiTMJRAHFADf5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="200" as="targetPoint" />
+            <mxPoint x="306" y="60" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="306" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-1" target="IimS17NUiTMJRAHFADf5-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-1" value="三方数据整合&lt;div&gt;(韩孝老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-12" target="IimS17NUiTMJRAHFADf5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-12" target="IimS17NUiTMJRAHFADf5-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-16" value="批改入参" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IimS17NUiTMJRAHFADf5-15">
+          <mxGeometry x="0.0878" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-12" value="前端渲染&lt;br&gt;&lt;div&gt;(超宇老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-13" value="yw_question_type&lt;div&gt;-1: 使用教研云的渲染&lt;/div&gt;&lt;div&gt;0,1,2,3: 使用镜像库的渲染&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="200" width="191" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-17" target="IimS17NUiTMJRAHFADf5-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-17" target="IimS17NUiTMJRAHFADf5-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="380" />
+              <mxPoint x="100" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-17" value="批改pipeline&lt;br&gt;&lt;div&gt;(璞政/曹兴老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-19" value="yw_question_type&lt;div&gt;-1,0,2,3: 使用镜像库的答案&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="191" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-21" value="选判配对&lt;br&gt;&lt;div&gt;(天翔老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-22" value="填空&lt;br&gt;&lt;div&gt;(珺文老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-23" value="&lt;div&gt;解答&lt;/div&gt;&lt;div&gt;(李浩老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-17" target="IimS17NUiTMJRAHFADf5-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="370" as="sourcePoint" />
+            <mxPoint x="210" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IimS17NUiTMJRAHFADf5-17" target="IimS17NUiTMJRAHFADf5-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="sourcePoint" />
+            <mxPoint x="205" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-28" value="&lt;div&gt;专项题型&lt;/div&gt;&lt;div&gt;(秀元老师)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IimS17NUiTMJRAHFADf5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IimS17NUiTMJRAHFADf5-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="380" as="sourcePoint" />
+            <mxPoint x="330" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
