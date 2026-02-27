@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.1.2" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.7" pages="10">
   <diagram name="第 1 页" id="P6E8zjEykWlbqtwnReJS">
     <mxGraphModel dx="773" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -846,6 +846,98 @@
             <mxPoint x="250" y="380" as="sourcePoint" />
             <mxPoint x="330" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Gp4YeBylxir5_KtiiEwE" name="第 10 页">
+    <mxGraphModel dx="799" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aOsqsF_lblBaqiyExrTg-5" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aOsqsF_lblBaqiyExrTg-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="可批打标" vertex="1">
+          <mxGeometry height="40" width="85" x="235" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-11" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aOsqsF_lblBaqiyExrTg-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-12" connectable="0" parent="aOsqsF_lblBaqiyExrTg-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不是" vertex="1">
+          <mxGeometry relative="1" x="-0.5455" y="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-15" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aOsqsF_lblBaqiyExrTg-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-16" connectable="0" parent="aOsqsF_lblBaqiyExrTg-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3231" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-17" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aOsqsF_lblBaqiyExrTg-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-18" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aOsqsF_lblBaqiyExrTg-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="是否可批的多空填空" vertex="1">
+          <mxGeometry height="95" width="70" x="242.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="结束" vertex="1">
+          <mxGeometry height="32.5" width="32.5" x="390" y="241.25" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-30" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="480" />
+              <mxPoint x="260" y="480" />
+            </Array>
+            <mxPoint x="260" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="渲染前端检测" vertex="1">
+          <mxGeometry height="30" width="82.5" x="160" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-22" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="aOsqsF_lblBaqiyExrTg-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331.29999999999995" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-28" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aOsqsF_lblBaqiyExrTg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="题干渲染图/坐标" vertex="1">
+          <mxGeometry height="30" width="98.75" x="270" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-24" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aOsqsF_lblBaqiyExrTg-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331.25" y="400" as="sourcePoint" />
+            <mxPoint x="390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-29" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aOsqsF_lblBaqiyExrTg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="答案渲染图" vertex="1">
+          <mxGeometry height="30" width="98.75" x="400" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-31" edge="1" parent="1" source="aOsqsF_lblBaqiyExrTg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="381" y="480" />
+              <mxPoint x="260" y="480" />
+            </Array>
+            <mxPoint x="260" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="答案回填检测" vertex="1">
+          <mxGeometry height="30" width="82.5" x="340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="aOsqsF_lblBaqiyExrTg-32" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="结束" vertex="1">
+          <mxGeometry height="32.5" width="32.5" x="242.5" y="552" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
