@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.6" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" pages="12">
   <diagram name="第 1 页" id="P6E8zjEykWlbqtwnReJS">
     <mxGraphModel dx="773" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1020,6 +1020,55 @@
         </mxCell>
         <mxCell id="C_qbbNCCx3YuVrOGxv-O-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="方案一" vertex="1">
           <mxGeometry height="30" width="60" x="460" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="s31AznFjqxW_W0gP0_9q" name="第 12 页">
+    <mxGraphModel dx="1006" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-6" edge="1" parent="1" source="zmZC1ZmmGbQMCus7rr1Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zmZC1ZmmGbQMCus7rr1Y-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281.5" y="120" />
+              <mxPoint x="281.5" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zmZC1ZmmGbQMCus7rr1Y-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="113" />
+              <mxPoint x="540" y="180" />
+              <mxPoint x="460" y="180" />
+            </Array>
+            <mxPoint x="470" y="113" as="sourcePoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="整页作答图、单题解析&amp;amp;答案、单题题干" vertex="1">
+          <mxGeometry height="40" width="350" x="226" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-10" edge="1" parent="1" source="zmZC1ZmmGbQMCus7rr1Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zmZC1ZmmGbQMCus7rr1Y-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ToG:找题模型(找题&amp;amp;出题框)" vertex="1">
+          <mxGeometry height="40" width="135" x="214" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-13" edge="1" parent="1" source="zmZC1ZmmGbQMCus7rr1Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zmZC1ZmmGbQMCus7rr1Y-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="题框" vertex="1">
+          <mxGeometry height="29" width="120" x="400" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zmZC1ZmmGbQMCus7rr1Y-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;ToG/屏上:VQA比对&lt;/div&gt;比对结果" vertex="1">
+          <mxGeometry height="49" width="120" x="400" y="304" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
